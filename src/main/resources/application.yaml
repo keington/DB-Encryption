@@ -1,0 +1,7 @@
+# Server Configurations
+server:
+  port: 8080
+
+# 加密盐值
+jasypt:
+  password: "Keington"
