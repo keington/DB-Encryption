@@ -2,9 +2,6 @@ package com.keington.db_encryption;
 
 import com.ulisesbocchio.jasyptspringboot.annotation.EnableEncryptableProperties;
 import org.jasypt.util.text.BasicTextEncryptor;
-import org.springframework.beans.factory.annotation.Value;
-
-import javax.annotation.PostConstruct;
 
 /**
  * @author Xu.Huaian
